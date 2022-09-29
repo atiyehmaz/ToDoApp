@@ -1,0 +1,5 @@
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDo.csproj.AssemblyReference.cache
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDo.AssemblyInfoInputs.cache
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDo.AssemblyInfo.cs
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDoApp.csproj.AssemblyReference.cache
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDoApp.AssemblyInfoInputs.cache
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDoApp.AssemblyInfo.cs
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDoApp.csproj.CoreCompileInputs.cache
+D:\ToDoIt\ToDo\ToDo\bin\Debug\net6.0\ToDoApp.exe
+D:\ToDoIt\ToDo\ToDo\bin\Debug\net6.0\ToDoApp.deps.json
+D:\ToDoIt\ToDo\ToDo\bin\Debug\net6.0\ToDoApp.runtimeconfig.json
+D:\ToDoIt\ToDo\ToDo\bin\Debug\net6.0\ToDoApp.dll
+D:\ToDoIt\ToDo\ToDo\bin\Debug\net6.0\ToDoApp.pdb
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDoApp.dll
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\refint\ToDoApp.dll
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDoApp.pdb
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ToDoApp.genruntimeconfig.cache
+D:\ToDoIt\ToDo\ToDo\obj\Debug\net6.0\ref\ToDoApp.dll
